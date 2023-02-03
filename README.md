@@ -1,4 +1,4 @@
-# Aleph Study Tool
+# Aleph(א) Study Tool
 for Genius Project
 
 Currently WIP:
