@@ -1,4 +1,4 @@
-# MoonriseSunset.github.io
+# Aleph Study Tool
 for Genius Project
 
 Currently WIP:
