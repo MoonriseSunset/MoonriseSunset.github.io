@@ -1,22 +1,21 @@
 body{
             font-family: Helvetica;
             background-color: black;
-            color: blanchedalmond;
-            
-        }
-        h1{
+            color: blanchedalmond;   
+}
+h1{
             text-align:center;
-        }
-        img{
+}
+img{
             width: 400px;
             height: 300px;
             display: block;
             margin-left: auto;
             margin-right: auto;
-        }
-        a{
+}
+a{
             color: #3884ff;
-        }
-        .centered{
+}
+.centered{
             position:absolute;
-        }
+}
