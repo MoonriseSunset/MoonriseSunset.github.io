@@ -2,12 +2,17 @@
 for Genius Project
 
 Currently WIP:
-  -Filling out the HTML
-  -Setting up the stylesheet (which still doesn't work)
 
+  -Filling out the HTML
+  
+  -Setting up the stylesheet (which still doesn't work)
+  
+---------------------------------------------------------------
 Need to do in future:
+
   -learn JS
   
+----------------------------------------------------------------
   
 Links we should probably use:
 
