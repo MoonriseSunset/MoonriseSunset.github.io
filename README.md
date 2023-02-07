@@ -3,14 +3,14 @@ for Genius Project
 
 **Current Link to Website**: https://moonrisesunset.github.io/
 
-Currently WIP:
+*Currently WIP:*
 
   -Filling out the HTML
   
   -Updating the stylesheet
   
 ---------------------------------------------------------------
-Need to do in future:
+*Need to do in future:*
 
   -learn JS
   
