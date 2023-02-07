@@ -7,12 +7,16 @@ Currently WIP:
 
   -Filling out the HTML
   
-  -Setting up the stylesheet (which still doesn't work)
+  -Updating the stylesheet
   
 ---------------------------------------------------------------
 Need to do in future:
 
   -learn JS
+  
+  -Send a form out to catalog features wanted
+  
+  -Add functionality to the program via JS
   
 ----------------------------------------------------------------
   
