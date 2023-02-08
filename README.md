@@ -1,7 +1,9 @@
 # Aleph(א) Study Tool
 for Genius Project
 
-**Current Link to Website**: https://moonrisesunset.github.io/
+**[Current Link to Website](https://moonrisesunset.github.io/)** 
+
+**[Python Prototype Link](https://replit.com/@RohanSoni1/Quizlet-Final)**
 
 *Currently WIP:*
 
