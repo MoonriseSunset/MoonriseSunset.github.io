@@ -22,14 +22,12 @@ for Genius Project
   
 ----------------------------------------------------------------
   
-Links we should probably use:
+Links:
 
-https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site
+-[Change Website Domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)
 
-References:
+-[HTML](https://www.w3schools.com/html/default.asp)
 
-https://www.w3schools.com/html/default.asp
+-[CSS](https://www.w3schools.com/css/default.asp)
 
-https://www.w3schools.com/css/default.asp
-
-https://www.w3schools.com/js/default.asp
+-[JS](https://www.w3schools.com/js/default.asp)
