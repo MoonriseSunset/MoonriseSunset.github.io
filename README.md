@@ -23,3 +23,11 @@ for Genius Project
 Links we should probably use:
 
 https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site
+
+References:
+
+https://www.w3schools.com/html/default.asp
+
+https://www.w3schools.com/css/default.asp
+
+https://www.w3schools.com/js/default.asp
