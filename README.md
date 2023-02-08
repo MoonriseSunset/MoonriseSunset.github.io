@@ -24,10 +24,10 @@ for Genius Project
   
 Links:
 
--[Change Website Domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)
+- [Change Website Domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)
 
--[HTML](https://www.w3schools.com/html/default.asp)
+- [HTML Ref](https://www.w3schools.com/html/default.asp)
 
--[CSS](https://www.w3schools.com/css/default.asp)
+- [CSS Ref](https://www.w3schools.com/css/default.asp)
 
--[JS](https://www.w3schools.com/js/default.asp)
+- [JS Ref](https://www.w3schools.com/js/default.asp)
